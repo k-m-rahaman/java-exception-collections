@@ -17,7 +17,7 @@ A comprehensive Java repository covering Exception Handling and Collections Fram
 
 ## 🎯 Repository Objective
 
-This repository helps learners understand:
+`This repository helps learners understand:`
 
 - Java Exception Handling
 - Runtime Error Management
